@@ -1,2 +1,33 @@
-# Multi-Brain-Challenge--The-Ultimate-Cognitive-Overload-Training-Game
-Multi-Brain Challenge is a futuristic cognitive-training game built with React, FastAPI, and MongoDB. Players simultaneously handle audio memory, visual puzzles, rhythm sync, and recall challenges under pressure. The game uses adaptive difficulty inspired by real-world multitasking and neural overload.
+## Overview
+
+Multi-Brain Challenge is a futuristic cognitive overload game designed to train multiple brain systems simultaneously.
+
+Unlike traditional games that focus on only one mental skill, this project combines:
+
+- Audio memory
+- Visual processing
+- Rhythm synchronization
+- Recall accuracy
+- Cognitive flexibility
+- Stress adaptation
+
+The player must survive increasing neural pressure while processing multiple information streams at once.
+
+
+## Tech Stack
+
+Frontend:
+- React
+- Vite
+- Zustand
+- CSS3
+
+Backend:
+- FastAPI
+- Python
+
+Database:
+- MongoDB
+
+Real-Time:
+- WebSockets
