@@ -41,6 +41,7 @@ app.include_router(
 app.include_router(game_socket.router)
 
 
+
 @app.get("/")
 async def root():
     return {

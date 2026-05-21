@@ -6,7 +6,6 @@ from app.database.mongodb import (
 
 router = APIRouter()
 
-
 @router.get("/")
 async def leaderboard():
 

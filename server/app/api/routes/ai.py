@@ -6,7 +6,6 @@ from app.services.ai_engine import (
 
 router = APIRouter()
 
-
 @router.post("/analyze")
 async def analyze(data: dict):
 

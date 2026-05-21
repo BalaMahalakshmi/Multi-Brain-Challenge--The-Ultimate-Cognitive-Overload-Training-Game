@@ -22,4 +22,5 @@ def adjust_difficulty(player_data):
     if stress < 40:
         difficulty += 1
 
+    
     return min(difficulty, 10)
